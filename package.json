@@ -1,8 +1,8 @@
 {
-  "name": "react-food-order",
+  "name": "reactjs-food-order",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kubrafarokhi.github.io/react-food-order",
+  "homepage": "http://kubrafarokhi.github.io/reactjs-food-order",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
